@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm a software engineer at [Cohere](cohere.io). Check us out!
+I'm a software engineer at [Cohere](https://cohere.io). Check us out!
